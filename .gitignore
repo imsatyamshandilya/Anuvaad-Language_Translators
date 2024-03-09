@@ -1,0 +1,12 @@
+*/**/sample-data
+*/**/.ipynb_checkpoints/*
+*.log
+.idea
+.DS_Store
+__pycache__/
+## for anuvaad-fe
+##  - build
+##  - node_modules
+**/build
+**/node_modules
+#__pycache__/
